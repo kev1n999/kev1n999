@@ -25,4 +25,4 @@
 
 #
           
-![Snake animation](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
