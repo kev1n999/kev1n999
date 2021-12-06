@@ -22,3 +22,7 @@
      <a href="https://youtube.com/channel/UC0cKzCed9EUUGoUSTHae_yA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/kev1n.aaa/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
+
+#
+          
+![Snake animation](https://c.tenor.com/GfSX-u7VGM4AAAAM/coding.gif)
