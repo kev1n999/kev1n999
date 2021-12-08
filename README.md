@@ -1,7 +1,7 @@
 ### Olá, Bem Vindo ao meu perfil do Github! 👋
 
 - 💡 Meu nome é: Kevin
-- 🔭 Atualmente programo em python
+- 🔭 Atualmente programo em Python
 - 🌱 Estudando JavaScript e C#
 - 😄 Pronomes: nenhum, coisa de gay 
 
