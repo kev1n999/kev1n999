@@ -3,7 +3,6 @@
 - 💡 Meu nome é: Kevin
 - 🔭 Atualmente programo em Python
 - 🌱 Estudando JavaScript e C#
-- 😄 Pronomes: nenhum, coisa de gay 
 
 <div>
      <a href="https://github.com/kev1n999">
