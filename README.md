@@ -1,8 +1,7 @@
 ### Olá, Bem Vindo ao meu perfil do Github! 👋
 
 - 💡 Meu nome é: Kevin
-- 🔭 Atualmente programo em Python
-- 🌱 Estudando JavaScript e C#
+- 🔭 Gosto de programar por diversão!
 
 <div>
      <a href="https://github.com/kev1n999">
