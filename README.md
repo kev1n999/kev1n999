@@ -2,7 +2,7 @@
 
 - 💡 Meu nome é: Kevin
 - 🔭 Gosto de programar por diversão!
-- 💻 Sistema Operacional: Linux - Pop OS
+- 💻 Sistema Operacional Atual: Linux - Pop OS
 
 <div>
      <a href="https://github.com/kev1n999">
