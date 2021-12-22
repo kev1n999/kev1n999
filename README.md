@@ -1,6 +1,6 @@
 ### Olá, Bem Vindo ao meu perfil do Github! 👋
 
-- 💡 Meu nome é Kevin 🇧🇷
+- 💡 Meu nome é Kevin
 - 🔭 Gosto de programar por diversão!
 - 💻 Sistema Operacional Atual: Linux - Pop OS
 
