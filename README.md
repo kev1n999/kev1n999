@@ -1,9 +1,5 @@
 ### Olá, Bem Vindo ao meu perfil do Github! 👋
 
-- 💡 Meu nome é Kevin
-- 🔭 Gosto de programar por diversão! 
-- :white_check_mark: Não sou nenhum profissional obviamente
-
 <div>
      <a href="https://github.com/kev1n999">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kev1n999&show_icons=true&theme=radical"/>
