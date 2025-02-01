@@ -1,4 +1,8 @@
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Kevin!" alt="Typing SVG" />
+</div>
+
 # 👩🏻‍💻 Kevin
 
 **`Estudante e Desenvolvedor`**
@@ -9,3 +13,8 @@ Me chamo Kevin, tenho 17 anos e amo o mundo da computação. Estou cursando o 3�
 
 <br/>
 <br/>
+
+<a href="https://discord.com/users/1284623028323483715">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+</a>
+</div>
