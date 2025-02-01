@@ -14,7 +14,9 @@ Me chamo Kevin, tenho 17 anos e amo o mundo da computação. Estou cursando o 3�
 <br/>
 <br/>
 
-<a href="https://discord.com/users/1284623028323483715">
+<div align="center">
+  <a href="https://discord.com/users/1284623028323483715">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </a>
+</div>
 </div>
