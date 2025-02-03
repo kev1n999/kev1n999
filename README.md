@@ -24,5 +24,9 @@ Me chamo Kevin, tenho 17 anos e amo o mundo da computação. Estou cursando o 3�
   <a href="https://discord.com/users/1284623028323483715">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
 </a>
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevin.sqb09@gmail.com" >
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
+</a>
+  
 </div>
 </div>
