@@ -1,32 +1,51 @@
+<h1 align="center">Olá 👋, eu sou o Kevin!</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;I'm+Kevin!" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hi!;My+name+is+Kevin;Welcome!" alt="Typing SVG" />
+</p>
 
-# 👩🏻‍💻 Kevin
+---
 
-**`Estudante e Desenvolvedor`**
+## 🧠 Sobre mim
 
-Seja bem vindo ao meu perfil do GitHub!
+- 🎓 Estudando e desenvolvendo projetos com foco em programação
+- 🧪 Interesse por tecnologia
+- 🐍 Foco em Python e TypeScript
+- 🚀 Buscando oportunidades para crescer como desenvolvedor
+- 📚 Sempre aprendendo algo novo
 
-<p align="left">
-  
-### 📊 GitHub Stats
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kev1n999&show_icons=true&theme=dark&cache_seconds=43200" alt="GitHub Stats" />
-</div>
+## 💻 Tecnologias e Ferramentas
 
-<br/>
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
-<div align="center">
-  <a href="https://discord.com/users/1284623028323483715">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
-</a>
-   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kevin.sqb09@gmail.com" >
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-</a>
-  
-</div>
-</div>
+---
+
+## 📬 Contato
+
+<p>
+  <a href="mailto:kevin.seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/kevin-dev-xyz">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1360043661718454352">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://wa.me/554298505956">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D2671,100:C33764&height=120&section=footer"/>
+</p>
