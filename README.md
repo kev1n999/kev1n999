@@ -30,7 +30,7 @@
 ## 📬 Contato
 
 <p>
-  <a href="mailto:kevin.seuemail@gmail.com">
+  <a href="mailto:kevin.sqb09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/kevin-dev-xyz">
