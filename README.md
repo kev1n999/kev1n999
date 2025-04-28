@@ -6,16 +6,6 @@
 
 ---
 
-## 🧠 Sobre mim
-
-- 🎓 Estudando e desenvolvendo projetos com foco em programação
-- 🧪 Interesse por tecnologia
-- 🐍 Foco em Python e TypeScript
-- 🚀 Buscando oportunidades para crescer como desenvolvedor
-- 📚 Sempre aprendendo algo novo
-
----
-
 ## 💻 Tecnologias e Ferramentas
 
 <p>
