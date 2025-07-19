@@ -9,7 +9,7 @@
 
 ## Tools
 - Editors/IDEs: VS Code, PyCharm
-- OS: Linux
+- OS: Windows, Linux
 - Version Control: Git, GitHub
 
 ---
