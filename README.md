@@ -1,27 +1,4 @@
 <div>
-
-  <p>
-    <img src="https://cyber.dabamos.de/88x31/mysql-88x31.gif">
-    <img src="https://cyber.dabamos.de/88x31/linux.gif">
-    <img src="https://cyber.dabamos.de/88x31/javascript2.gif">
-    <img src="https://cyber.dabamos.de/88x31/php4_88x31.gif">
-    <img src="https://cyber.dabamos.de/88x31/nvidia.gif">
-    <img src="https://cyber.dabamos.de/88x31/netscapeexplorer.gif">
-    <img src="https://cyber.dabamos.de/88x31/new-tab.gif">
-    <img src="https://cyber.dabamos.de/88x31/ms_ani.gif">
-  </p>
-
-  <p>
-    <img src="https://cyber.dabamos.de/88x31/online-help.gif">
-    <img src="https://cyber.dabamos.de/88x31/www2.gif">
-    <img src="https://cyber.dabamos.de/88x31/juno.gif">
-    <img src="https://cyber.dabamos.de/88x31/learn_html.gif">
-    <img src="https://cyber.dabamos.de/88x31/kawaiibutton.gif">
-    <img src="https://cyber.dabamos.de/88x31/ifree_chat.gif">
-    <img src="https://cyber.dabamos.de/88x31/larbs.gif">
-    <img src="https://cyber.dabamos.de/88x31/nekojiru2.gif">
-  </p>
-
   <p>
     <img src="https://cyber.dabamos.de/88x31/pknewmini.gif">
     <img src="https://cyber.dabamos.de/88x31/perfectsoldier2.gif">
@@ -43,5 +20,4 @@
     <img src="https://cyber.dabamos.de/88x31/bestromsites.gif">
     <img src="https://cyber.dabamos.de/88x31/chat.gif">
   </p>
-
 </div>
