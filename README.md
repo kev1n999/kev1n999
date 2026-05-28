@@ -40,6 +40,8 @@
     <img src="https://cyber.dabamos.de/88x31/protectb.gif">
     <img src="https://cyber.dabamos.de/88x31/best_chrome.gif">
     <img src="https://cyber.dabamos.de/88x31/88x31.gif">
+    <img src="https://cyber.dabamos.de/88x31/bestromsites.gif">
+    <img src="https://cyber.dabamos.de/88x31/chat.gif">
   </p>
 
 </div>
