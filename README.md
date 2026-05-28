@@ -1,10 +1,12 @@
-<div align="">
+<div>
 
   <img src="https://cyber.dabamos.de/88x31/mysql-88x31.gif">
   <img src="https://cyber.dabamos.de/88x31/linux.gif">
   <img src="https://cyber.dabamos.de/88x31/javascript2.gif">
   <img src="https://cyber.dabamos.de/88x31/php4_88x31.gif">
   <img src="https://cyber.dabamos.de/88x31/nvidia.gif">
+
+  <br>
 
   <img src="https://cyber.dabamos.de/88x31/netscapeexplorer.gif">
   <img src="https://cyber.dabamos.de/88x31/new-tab.gif">
@@ -20,6 +22,7 @@
   <img src="https://cyber.dabamos.de/88x31/ifree_chat.gif">
   <img src="https://cyber.dabamos.de/88x31/larbs.gif">
 
+  <br>
 
   <img src="https://cyber.dabamos.de/88x31/nekojiru2.gif">
   <img src="https://cyber.dabamos.de/88x31/pknewmini.gif">
@@ -34,6 +37,8 @@
   <img src="https://cyber.dabamos.de/88x31/linux-directory.gif">
   <img src="https://cyber.dabamos.de/88x31/jobsritchie.gif">
   <img src="https://cyber.dabamos.de/88x31/devils.gif">
+
+  <br>
 
   <img src="https://cyber.dabamos.de/88x31/coke.gif">
   <img src="https://cyber.dabamos.de/88x31/clickhere_blue.gif">
